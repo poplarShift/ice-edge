@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/184116955.svg)](https://zenodo.org/badge/latestdoi/184116955)
+
 Welcome! This repository reproduces the analysis of Randelhoff et al. (2019), "The evolution of light and vertical mixing across a phytoplankton ice-edge bloom", to be published in [the "Green Edge" special issue](https://collections.elementascience.org/green-edge) of Elementa: The Science of the Anthropocene.
 
 The main files are:
