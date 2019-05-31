@@ -1,6 +1,8 @@
 [![DOI](https://zenodo.org/badge/184116955.svg)](https://zenodo.org/badge/latestdoi/184116955)
 
-Welcome! This repository reproduces the analysis of Randelhoff et al. (2019), "The evolution of light and vertical mixing across a phytoplankton ice-edge bloom", to be published in [the "Green Edge" special issue](https://collections.elementascience.org/green-edge) of Elementa: The Science of the Anthropocene.
+Welcome! This repository reproduces the analysis of [Randelhoff et al. (2019), "The evolution of light and vertical mixing across a phytoplankton ice-edge bloom"](https://www.elementascience.org/articles/10.1525/elementa.357/), published in [the "Green Edge" special issue](https://collections.elementascience.org/green-edge) and available from the journal or [my website](https://poplarshift.github.io/papers/randelhoff2019evolution.pdf).
+
+> Randelhoff, A., Oziel, L., Massicotte, P., Bécu, G., Galí, M., Lacour, L., Dumont, D., Vladoiu, A., Marec, C., Bruyant, F., Houssais, M.-N., Tremblay, J.-É., Deslongchamps, G. and Babin, M., 2019. The evolution of light and vertical mixing across a phytoplankton ice-edge bloom. Elem. Sci. Anth., 7(1), p.20. DOI: 10.1525/elementa.357
 
 The main files are:
 - the [jupyter notebook](https://nbviewer.jupyter.org/github/poplarShift/ice-edge-bloom/blob/master/iceedge_analysis.ipynb?flush_cache=true), also available as [html](iceedge_analysis.html), which contains all the code used for treating the data and turning them into figures. The Supplementary Material was generated directly from [another](iceedge_supmat.html) [notebook](https://nbviewer.jupyter.org/github/poplarShift/ice-edge-bloom/blob/master/iceedge_supmat.ipynb?flush_cache=true).
