@@ -1,7 +1,6 @@
 name: iceedgepaper
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - appnope=0.1.0
   - asn1crypto=0.24.0
