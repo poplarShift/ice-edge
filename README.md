@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/184116955.svg)](https://zenodo.org/badge/latestdoi/184116955)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/poplarShift/ice-edge/master) [![DOI](https://zenodo.org/badge/184116955.svg)](https://zenodo.org/badge/latestdoi/184116955)
 
 Welcome! This repository reproduces the analysis of [Randelhoff et al. (2019), "The evolution of light and vertical mixing across a phytoplankton ice-edge bloom"](https://www.elementascience.org/articles/10.1525/elementa.357/), published in [the "Green Edge" special issue](https://collections.elementascience.org/green-edge) and available from the journal or [my website](https://poplarshift.github.io/papers/randelhoff2019evolution.pdf).
 
